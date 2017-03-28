@@ -4,6 +4,7 @@
   "scripts": {
     "loc": "sloc src/ --format json > ./reports/sloc.json",
     "pregalaxy": "npm run loc",
+    "start": "gulp serve --corpToken='1E4OCG' --sl='5' --companyName='Access Nursing Services'",
     "galaxy": "galaxy analyze"
   },
   "devDependencies": {

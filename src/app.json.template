@@ -9,20 +9,19 @@
         "rtf",
         "odt"
     ],
-    "companyName": "[ COMPANY NAME HERE ]",
+    "companyName": "Access Nursing Services",
     "defaultLocale": "en-US",
     "supportedLocales": [
-        "en-US",
-        "fr-FR"
+        "en-US"
     ],
     "minUploadSize": 4096,
     "maxRelatedJobs": 5,
     "maxUploadSize": 5242880,
     "service": {
         "batchSize": 500,
-        "corpToken": "[ CORP TOKEN HERE ]",
+        "corpToken": "1E4OCG",
         "port": null,
-        "swimlane": "[ SWIMLANE HERE ]"
+        "swimlane": "5"
     },
     "integrations": {
         "linkedin": {
