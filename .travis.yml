@@ -39,3 +39,4 @@ after_success:
 
 after_success:
 - bash gh_pages.sh
+
