@@ -71,6 +71,8 @@ cd ..
 
 ls -als
 
+cp index-*.html index.html
+
 echo "touch all files"
 touch .
 
