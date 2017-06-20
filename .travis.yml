@@ -30,7 +30,7 @@ before_script:
 
 script:
   - bower install
-  - gulp travis:build
+  - gulp travis:build --corp 1E4OCG  --sl S --companyName "Access Nursing Services"
 
 after_success:
   - npm install codeclimate-test-reporter -g
