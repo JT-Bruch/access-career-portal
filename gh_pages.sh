@@ -34,6 +34,10 @@ git branch --set-upstream-to=origin/master master
 git pull
 git status
 
+git add .
+git stash
+git stash drop
+
 set +e
 
 echo "attempt checkout gh pages"
