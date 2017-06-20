@@ -18,4 +18,4 @@ reports/
 .idea
 .vs/
 .settings/
-.test/
+test/
